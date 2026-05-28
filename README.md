@@ -1,0 +1,2 @@
+# 7006SCN2526MAYJUL-7006SCN_SYA_16073319
+BigData And MachineLearning Assignment (7006SCN)
